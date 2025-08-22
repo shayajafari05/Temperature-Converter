@@ -1,0 +1,11 @@
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.exe.config
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.exe
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.pdb
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.AssemblyReference.cache
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.SuggestedBindingRedirects.cache
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.frmTemperature.resources
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.Properties.Resources.resources
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.GenerateResource.cache
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.CoreCompileInputs.cache
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.exe
+E:\CWC\VisualStudio\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.pdb
